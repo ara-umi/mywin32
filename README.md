@@ -14,6 +14,7 @@
 -	键鼠模拟（类似后台版的pyaugui，或低配版的大漠插件）
 
 - <font color='red'> **大部分按键的虚拟键码/扫描码未添加，请自行修改key.json**</font>
+
 虚拟键码参考：http://www.atoolbox.net/Tool.php?Id=815
 扫描码参考：https://blog.csdn.net/qq_37232329/article/details/79926440
 
