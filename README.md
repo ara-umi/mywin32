@@ -21,7 +21,7 @@
 
 ## 更新日志
 
-2021.4.22
+2021.4.15
 
 -	clickInput（中键相关未编写）
 
@@ -29,6 +29,12 @@
 
 -	activate/mouseActivate
 
+
+2021.4.19
+
+-	scrollH/scrollV
+
+-	drag
 
 
 
