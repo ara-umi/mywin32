@@ -1,0 +1,188 @@
+{
+  "A": {
+    "vk": 65,
+    "mark": "0x1e",
+    "break": "0x9e"
+  },
+  "B": {
+    "vk": 66,
+    "mark": "0x30",
+    "break": "0xb0"
+  },
+  "C": {
+    "vk": 67,
+    "mark": "0x2e",
+    "break": "0xae"
+  },
+  "D": {
+    "vk": 68,
+    "mark": "0x20",
+    "break": "0xa0"
+  },
+  "E": {
+    "vk": 69,
+    "mark": "0x12",
+    "break": "0x12"
+  },
+  "F": {
+    "vk": 70,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "G": {
+    "vk": 71,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "H": {
+    "vk": 72,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "I": {
+    "vk": 73,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "J": {
+    "vk": 74,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "K": {
+    "vk": 75,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "L": {
+    "vk": 76,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "M": {
+    "vk": 77,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "N": {
+    "vk": 78,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "O": {
+    "vk": 79,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "P": {
+    "vk": 80,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "Q": {
+    "vk": 81,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "R": {
+    "vk": 82,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "S": {
+    "vk": 83,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "T": {
+    "vk": 84,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "U": {
+    "vk": 85,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "V": {
+    "vk": 86,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "W": {
+    "vk": 87,
+    "mark": "0x11",
+    "break": "0x91"
+  },
+  "X": {
+    "vk": 88,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "Y": {
+    "vk": 89,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "Z": {
+    "vk": 90,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN0": {
+    "vk": 48,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN1": {
+    "vk": 49,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN2": {
+    "vk": 50,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN3": {
+    "vk": 51,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN4": {
+    "vk": 52,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN5": {
+    "vk": 53,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN6": {
+    "vk": 54,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN7": {
+    "vk": 55,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN8": {
+    "vk": 56,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "MAIN9": {
+    "vk": 57,
+    "mark": "pass",
+    "break": "pass"
+  },
+  "SPACE":
+  {
+    "vk": 32,
+    "mark": "0x39",
+    "break": "0xb9"
+  }
+}
